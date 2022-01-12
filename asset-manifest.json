@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JulioGiovanni/DynamicFormReact/static/css/main.04179b6f.css",
+    "main.js": "/JulioGiovanni/DynamicFormReact/static/js/main.28a11924.js",
+    "index.html": "/JulioGiovanni/DynamicFormReact/index.html",
+    "main.04179b6f.css.map": "/JulioGiovanni/DynamicFormReact/static/css/main.04179b6f.css.map",
+    "main.28a11924.js.map": "/JulioGiovanni/DynamicFormReact/static/js/main.28a11924.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04179b6f.css",
+    "static/js/main.28a11924.js"
+  ]
+}
