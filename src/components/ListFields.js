@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { ButtonGroup, ToggleButton } from 'react-bootstrap';
+import '../styles/input.css';
 
 export const ListFields = () => {
     const [radioValue, setRadioValue] = useState('1');
@@ -17,7 +18,7 @@ export const ListFields = () => {
             <div className='my-3'>
                 <label className='form-label' htmlFor='text'>Input tipo texto</label>
                 <input
-                    className='form-control'
+                    className='input-form'
                     name='text'
                     id='text'
                     type='text'

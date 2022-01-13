@@ -55,6 +55,7 @@ export const AddField = ({setFieldValues}) => {
                             >
                                 <option value=''>Seleccione una opción</option>
                                 <option value='text'>Texto</option>
+                                <option value='select'>Select</option>
                                 <option value='email'>Correo</option>
                                 <option value='password'>Contraseña</option>
                                 <option value='number'>Número</option>
